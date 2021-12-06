@@ -6,3 +6,5 @@ string generator function needs the use of the isInstance function as I had prev
 
 straightforward dp function implemented-getting correct min-cost
 issues with backtracking
+
+check the file untitled untitled1.pynb
